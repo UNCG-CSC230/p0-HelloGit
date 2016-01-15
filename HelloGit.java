@@ -1,5 +1,5 @@
 /**
- * Author: Jeff Whitworth
+ * Author: Thien Le
  * Program 0 - HelloGit
  * CSC230-02 Spring 2016
  */
